@@ -1,0 +1,61 @@
+{
+  "category": "configuration-management",
+  "created_date": "2025-09-15T22:48:59.024627",
+  "default_ports": [
+    80,
+    443,
+    4505
+  ],
+  "dependencies": [],
+  "description": "saltstack is a free and open-source infrastructure automation. SaltStack provides powerful automation for infrastructure management",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/configuration-management/saltstack",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/configuration-management/saltstack",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.024653",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "saltstack",
+  "repository_url": "https://github.com/howtomgr/saltstack",
+  "spec_version": "2.0",
+  "subcategory": "configuration-management",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "configuration-management",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "saltstack Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/configuration-management/saltstack"
+}
